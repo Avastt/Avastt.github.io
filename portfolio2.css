@@ -20,12 +20,11 @@ body {
 
 
   
-  
 /*content */
 #portfolio-motto {
     color: cyan;
     font-style: oblique;
-    font-size: 30px;
+    font-size: 18px;
     font-family: Lucida Console, Monaco, Monospace;
 }
 #portfolio-content {
